@@ -8,7 +8,7 @@ from selenium.webdriver.chrome.service import Service
 import time
 
 # Configuration - Replace with your actual Gemini API key
-GEMINI_API_KEY = "AIzaSyCp3OhyjXeoHg644fm6_O0ZZ2uf_RtGT1E"
+GEMINI_API_KEY = "your_api"
 
 # Path to chromedriver executable
 CHROMEDRIVER_PATH = r"C:\Users\DELL\.wdm\drivers\chromedriver\win64\124.0.6367.207\chromedriver-win32/chromedriver.exe"
